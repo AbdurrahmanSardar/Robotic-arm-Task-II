@@ -14,7 +14,7 @@ Then, I have coded it such that each motors move according to a variable value (
 **ATTACHMENTS**
 
 Let me introduce all the **attachments** in this repository. There are several files with the following extensions
-**rbd** file, which is a simulation file from Tinker CAD simulation website.
+**brd** file, which is a simulation file from Tinker CAD simulation website.
 **ino** file, which is an Arduino code to control all servo motors.
 and there are two **PNG** files to show the simulation before and after running the simulation and the code.
 
